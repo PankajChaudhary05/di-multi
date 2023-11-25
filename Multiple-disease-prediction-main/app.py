@@ -1,3 +1,4 @@
+!pip install mysql.connector
 import streamlit as st
 import mysql.connector
 import pickle
